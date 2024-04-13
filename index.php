@@ -292,8 +292,9 @@ if ($result->error == 'OK' && $result->total_tour_count > 0) {
                                             margin-right: 0vw !important;
                                         }
                                     }
-                                </style>                                    
-                                <button href="/">Go back top</button>
+                                </style>    
+                                <br>                   
+                                <a href="#">Go back top</a>
                                 <br /><br /><br /><br />
                         </div><!-- #container -->
 
